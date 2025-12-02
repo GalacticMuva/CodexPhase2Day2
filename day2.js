@@ -1,3 +1,5 @@
+//let input = require(prompt-sync)();
+
 //Structure
 
 function logServiceFeedback(){
